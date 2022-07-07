@@ -38,8 +38,8 @@
       - 연성 실시간 시스템(Soft realtime system)
 
 - Multitasking
-- Multiprogramming: 여러 프로그램이 메모리에 올라가 있음을 강조
-- Time Sharing: CPU의 시간을 분할하여 나누어 쓴다는 의미를 강조
+- Multiprogramming: 여러 프로그램이 메모리에 올라가 있음
+- Time Sharing: CPU의 시간을 분할하여 나누어 쓴다는 의미
 - Multiprocess: 
 - Multiproessor: 하나의 컴퓨터에 CPU(processor)가 여러개 붙어 있음을 의미
 
